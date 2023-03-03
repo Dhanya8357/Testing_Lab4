@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1143d50c-cb56-40c5-a205-8c580418b5d6": {
+      "ProjectGuid": "1143d50c-cb56-40c5-a205-8c580418b5d6",
+      "DisplayName": "Test cases",
+      "ColorIndex": 0
+    },
+    "4d20f88d-87fe-4c7a-a22e-d25365a2674f": {
+      "ProjectGuid": "4d20f88d-87fe-4c7a-a22e-d25365a2674f",
+      "DisplayName": "Traingle Test",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
